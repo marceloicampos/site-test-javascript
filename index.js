@@ -12,10 +12,13 @@ function write(phrase, type) {
         case 2:
             alert(phrase);
             break;
+        case 3:
+            document.write(phrase);
+            break;    
         default:
             document.write(phrase);
     }
     
 }
 
-hello('hcode');
+hello('Visitante - ESTÁ É SAÍDA de JS na tela!');
