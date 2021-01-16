@@ -21,4 +21,4 @@ function write(phrase, type) {
     
 }
 
-hello('Visitante - ESTÁ É SAÍDA de JS na tela!');
+hello('Visitante - ESTÁ É SAÍDA de JavaScript na tela!');
